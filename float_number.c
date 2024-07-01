@@ -2,7 +2,7 @@
 int main(){
   float f=0.53;
   if(f==0.53){
-    pritnf("YES\n");
+    printf("YES\n");
   }
 else{
   printf("NO\n");
